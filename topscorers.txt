@@ -1,0 +1,20 @@
+rank: 1 Name: Alan Shearer 
+rank: 2 Name: Wayne Rooney 
+rank: 3 Name: Andrew Cole 
+rank: 4 Name: Sergio Agüero 
+rank: 5 Name: Frank Lampard 
+rank: 6 Name: Thierry Henry 
+rank: 7 Name: Robbie Fowler 
+rank: 8 Name: Jermain Defoe 
+rank: 9 Name: Harry Kane 
+rank: 10 Name: Michael Owen 
+rank: 11 Name: Les Ferdinand 
+rank: 12 Name: Teddy Sheringham 
+rank: 13 Name: Robin van Persie 
+rank: 14 Name: Jimmy Floyd Hasselbaink 
+rank: 15 Name: Robbie Keane 
+rank: 16 Name: Nicolas Anelka 
+rank: 17 Name: Dwight Yorke 
+rank: 18 Name: Steven Gerrard 
+rank: 19 Name: Jamie Vardy 
+rank: 20 Name: Romelu Lukaku 
